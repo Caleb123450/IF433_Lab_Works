@@ -1,4 +1,4 @@
-package oop_001_johnthor.week01
+package oop_00000106640_ChrissanderAllenGunawan.week01
 
 fun main(args: Array<String>) {
     var studentName: String = "John"
